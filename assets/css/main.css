@@ -152,8 +152,16 @@ h1, h2, h3, h4, h5, h6 {
     padding: 100px 0;
 }
 
-.section__header {
+.section__header1 {
     padding-top: 135px;
+    font-size: 20px;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto 40px;
+
+}
+
+.section__header {
     font-size: 20px;
     width: 100%;
     max-width: 1200px;
@@ -163,6 +171,12 @@ h1, h2, h3, h4, h5, h6 {
 
 .section__title {
     font-size: 30px;
+    text-align: center;
+    color: rgb(239, 239, 239);
+}
+
+.section__title3 {
+    padding-top: 15px;
     text-align: center;
     color: rgb(239, 239, 239);
 }
@@ -194,6 +208,18 @@ h1, h2, h3, h4, h5, h6 {
 
 .section__lab2 {
     background: url("../images/2.jpg") center no-repeat;
+    padding: 100px 0;
+    margin: 0 auto;
+}
+
+.section__lab3 {
+    background: url("../images/3.jpg") center no-repeat;
+    padding: 100px 0;
+    margin: 0 auto;
+}
+
+.report {
+    background: url("../images/3.jpg") center no-repeat;
     padding: 100px 0;
     margin: 0 auto;
 }
