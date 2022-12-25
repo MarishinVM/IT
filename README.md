@@ -31,3 +31,5 @@ JS
 ### Билет №9
 
 Ответ на экзаменационный билет: [Билет №9](https://github.com/stankin/inet-2022/wiki/exam09)
+
+Ответ на билет №9: [Разница Ревизий]( ссылка №1: https://github.com/stankin/inet-2022/wiki/exam09/_compare/05ccb53860167c3ffb642e1bed610ee8deb05a17, ссылка №2: https://github.com/stankin/inet-2022/wiki/exam09/_compare/2c87d132a27ac752433db40ff41da4c33c9fda09)
